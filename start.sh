@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # para node descomente abaixo inclua um /nome-do-seu-projeto
+
 cd /home/node/app
 # cd /home/node/app/lara-project
 
@@ -17,6 +18,7 @@ fi
 tail -f /dev/null
 
 
+
 ## USE A O CÒDIGO ABAIXO para instalar projeto Laravel
 
 # Roda composer install apenas se a pasta vendor não existir
@@ -28,3 +30,4 @@ tail -f /dev/null
 # fi
 
 # tail -f /dev/null
+
